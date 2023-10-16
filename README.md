@@ -4,7 +4,6 @@ React series for project
 Node package executer, Node package manager
 # Steps using vite
 - npm create vite@latest
-- d
 
 # Steps using react only 
 Takes a lot of time
