@@ -27,7 +27,7 @@ const ReactElement = React.createElement( //Syntax of React is predefined
     'a', //tag
     {href: "https://www.google.com", target: "_blank"}, //Giving properties in object without name
     'Click me to visit google', //Writing text
-    anotherUser
+    anotherUser //Evaluated expression
 )
 
 
